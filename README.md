@@ -1,3 +1,3 @@
-# jekyll-minima-sidebar-test
+# Adding a sidebar for posts to the minimal Jekyll theme in GitHub Pages
 
-Sample page to test a sidebar for posts with the minimal Jekyll them for Stackoverflow: https://stackoverflow.com/questions/73978467/jekyll-datatables-below-sidebar/73994874#73994874
+For Stackoverflow: https://stackoverflow.com/questions/73978467/jekyll-datatables-below-sidebar/73994874#73994874
